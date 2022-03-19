@@ -9,13 +9,13 @@ Created By : Ali
 - requests
 
 
-![program pic]()
+![program pic](https://github.com/14d9/Ali-Discord-Bot/blob/master/img/Ali%20Discord%20Bot.png)
 
 
        
 
  ## Download
- > Download : [ClickHere]() ()
+ > Download : [ClickHere](https://github.com/14d9/Ali-Discord-Bot/archive/refs/heads/master.zip) (Ali-Discord-Bot-master.zip)
 
      
 
