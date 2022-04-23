@@ -27,7 +27,7 @@ async def on_ready():
 # Help #
 @bot.command()
 async def helpme(ctx):
-  embed = Embed(title='Ali | Help', description=f'**Bot Commands :\n\n!ip [IP]\n!discord [ServerLink]\n!tellonym [username]\n!cfx [FiveMServerCFX]\n\nAli : https://discord.gg/ali\nSelix : https://discord.gg/ZPNQkWHpAQ\nWe Love You <3**', color=0x000000)
+  embed = Embed(title='Ali | Help', description=f'**Bot Commands :\n\n!ip [IP]\n!discord [ServerLink]\n!tellonym [username]\n!cfx [FiveMServerCFX]\n\nCreative Station : https://discord.gg/crs\nWe Love You <3**', color=0x000000)
   embed.set_image(url='https://cdn.discordapp.com/attachments/838674685452484608/939825250714152970/600x200.png')
   embed.set_footer(text="Created By Ali || PiXeL#1337", icon_url="https://cdn.discordapp.com/attachments/838674685452484608/939825286021787708/0.png")
   await ctx.send(embed=embed)
